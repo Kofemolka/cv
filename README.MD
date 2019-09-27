@@ -5,7 +5,7 @@ kubovich@gmail.com
 Skype: a_kubovich
 ```
 
-All my experience in commercial software development for more then 15 years allows me to bravely face and solve any kind of issues, regardless of technology or framework. I've seen cutting edge front-end frameworks and literally touched bare metal, so feel myself comfortable anywere in between those ends. During past projects, I’ve been involved in different roles, from regular team member to leader and architect. I must admit, that I am a fast learner and really open minded person. Always ready for challanges and chance to explore unknown territory. Highly dedicated and problem-focused.
+All my experience in commercial software development for more than 15 years allows me to bravely face and solve any kind of issues, regardless of technology or framework. I've seen cutting edge front-end frameworks and literally touched bare metal, so feel myself comfortable anywhere in between those ends. During past projects, I’ve been involved in different roles, from regular team member to leader and architect. I must admit, that I am a fast learner and really open-minded person. Always ready for challenges and chance to explore unknown territory. Highly dedicated and problem-focused.
 ***
 * Languages: *C, C++, Python; C# and JS as auxilary*
 * Cloud platforms experience: *Azure, GCP*
